@@ -1,0 +1,6 @@
+{
+  "name": "Virtual Optical Beacon Tracking System",
+  "description": "Interactive Satellite-to-Satellite FSOC and Pointing, Acquisition, and Tracking (PAT) simulation interface",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
